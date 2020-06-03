@@ -1,0 +1,17 @@
+.idea
+.build
+lib
+build
+out
+dist
+*.iml
+.project
+.classpath
+.settings
+*.log
+*.log.*
+*.zip
+*.jar
+.ant_targets
+target
+logs
