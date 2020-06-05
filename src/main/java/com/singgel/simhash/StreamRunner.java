@@ -10,7 +10,7 @@ import org.apache.kafka.clients.producer.KafkaProducer;
 import java.util.Arrays;
 
 /**
- * @author chenyuan
+ * @author singgel
  * @description
  * @created_at: 2020-06-01 14:05
  **/

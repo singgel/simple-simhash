@@ -11,7 +11,7 @@ import java.util.Date;
 import java.util.Properties;
 
 /**
- * @author chenyuan
+ * @author singgel
  * @description
  * @created_at: 2020-06-02 14:06
  **/

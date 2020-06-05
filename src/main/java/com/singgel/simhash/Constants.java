@@ -4,7 +4,7 @@ import org.apache.kafka.common.serialization.StringDeserializer;
 import org.apache.kafka.common.serialization.StringSerializer;
 
 /**
- * @author chenyuan
+ * @author singgel
  * @description
  * @created_at: 2020-06-02 15:12
  **/
